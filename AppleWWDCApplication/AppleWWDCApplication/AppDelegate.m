@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    
+    //启动完成
     //设置NavigationBar的背景颜色
     [[UINavigationBar appearance] setBarTintColor:[UIColor colorWithRed:40/255.0 green:43/255.0 blue:55/255.0 alpha:1]];
     
